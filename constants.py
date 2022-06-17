@@ -1,0 +1,1 @@
+root_project_directory = "/content/drive/MyDrive/ProjectGAN"
